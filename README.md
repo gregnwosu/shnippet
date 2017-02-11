@@ -18,7 +18,7 @@ Clone repository:
 Add the cloned repository to YASnippet's `yas-snippet-dirs`:
 
     (setq yas-snippet-dirs
-          '("~/.emacs.d/snippets/shnippet"
+          '("~/.emacs.d/snippets/shnippet/snippets"
             "/other/paths/"
             ))
 
